@@ -1,0 +1,10 @@
+{
+  "name": "Matías Workshop",
+  "short_name": "Workshop",
+  "theme_color": "#21f395",
+  "background_color": "#000000",
+  "display": "browser",
+  "Scope": "/",
+  "start_url": ".",
+  "splash_pages": null
+}
